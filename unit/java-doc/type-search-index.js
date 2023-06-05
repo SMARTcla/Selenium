@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Game","l":"Array"},{"p":"Game","l":"Computer"},{"p":"Game","l":"GameField"},{"p":"Game","l":"Main"},{"p":"Game","l":"TestArimaa"},{"p":"Game","l":"Turns"},{"p":"Game","l":"Main.Window"}];updateSearchResults();
